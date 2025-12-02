@@ -27,7 +27,7 @@ The core value of this project is the mastery of rigorous simulation methodologi
     * **Insurance Liability:** Projecting the frequency and timing of future claims (Siniestralidad).
     * **Financial Derivatives Valuation:** Using simulation to value complex options and derivatives.
 
-## ✨ Competencies Showcased for the Analyst Role
+## ✨ Competencies Showcased.
 
 * **Advanced Python Skills** in a structured development environment (Jupyter).
 * **Structured Quantitative Thinking** required for translating complex mathematical and actuarial problems into clean, scalable code.
